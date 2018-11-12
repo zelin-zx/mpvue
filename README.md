@@ -1,6 +1,6 @@
-# whitebuy
+# 大玩咖
 
-> 白买
+> 大玩咖
 
 ## Build Setup
 
